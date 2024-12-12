@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>フォームアプリ</title>
     <style>
-        /* 優しいタッチのスタイル */
         body {
             font-family: Arial, sans-serif;
             background-color: #f9f9f9;
